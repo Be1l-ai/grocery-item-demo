@@ -1,6 +1,7 @@
 <?php
 // dbconfig.php - Database connection configuration
 // Creates the $pdo variable used by all demo files
+// template file only, use .env for serious useage
 $host = 'localhost';
 $dbname = 'cantiga-grocery-db';
 $username = 'root';
